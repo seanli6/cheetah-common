@@ -1,0 +1,23 @@
+[
+	{
+		"issuer": "https://teamsso-dv.telus.com",
+		"jku": "https://apigw-st.telus.com/dv/jwks"
+	},
+	{
+		"issuer": "https://teamsso-its04.telus.com",
+		"jku": "https://apigw-st.telus.com/st/jwks"
+	},
+	{
+		"issuer": "https://teamsso.telus.com",
+		"jku": "https://apigw-pr.telus.com/jwks"
+	},
+	{
+		"issuer": "https://telusidentity-pp.telus.com",
+		"jku": "https://telusidentity-pp.telus.com/ext/oauth/jwks/kong"
+	},
+	{
+		"issuer": "https://telusidentity.telus.com",
+		"jku": "https://telusidentity.telus.com/ext/oauth/jwks/kong"
+	}
+		
+]
